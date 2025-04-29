@@ -1,8 +1,11 @@
 Cenário 1: Login com dados incorretos
 
 Dado que o usuário está na página de login
+
 Quando ele preenche um e-mail e senha inválidos
+
 Então o sistema deve exibir uma mensagem:
+
 Authentication failed.
 
 Cenário 2: Campos vazios
